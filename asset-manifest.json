@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/glowing-jellyfish/static/css/main.79c329e9.chunk.css",
-    "main.js": "/glowing-jellyfish/static/js/main.58fc9310.chunk.js",
-    "main.js.map": "/glowing-jellyfish/static/js/main.58fc9310.chunk.js.map",
-    "runtime-main.js": "/glowing-jellyfish/static/js/runtime-main.02feeefe.js",
-    "runtime-main.js.map": "/glowing-jellyfish/static/js/runtime-main.02feeefe.js.map",
+    "main.css": "/glowing-jellyfish/static/css/main.311c9570.chunk.css",
+    "main.js": "/glowing-jellyfish/static/js/main.d56ce94c.chunk.js",
+    "main.js.map": "/glowing-jellyfish/static/js/main.d56ce94c.chunk.js.map",
+    "runtime-main.js": "/glowing-jellyfish/static/js/runtime-main.d413c410.js",
+    "runtime-main.js.map": "/glowing-jellyfish/static/js/runtime-main.d413c410.js.map",
     "static/css/2.1a02f21c.chunk.css": "/glowing-jellyfish/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.80ebb879.chunk.js": "/glowing-jellyfish/static/js/2.80ebb879.chunk.js",
-    "static/js/2.80ebb879.chunk.js.map": "/glowing-jellyfish/static/js/2.80ebb879.chunk.js.map",
-    "static/js/3.02209205.chunk.js": "/glowing-jellyfish/static/js/3.02209205.chunk.js",
-    "static/js/3.02209205.chunk.js.map": "/glowing-jellyfish/static/js/3.02209205.chunk.js.map",
+    "static/js/2.f12363d6.chunk.js": "/glowing-jellyfish/static/js/2.f12363d6.chunk.js",
+    "static/js/2.f12363d6.chunk.js.map": "/glowing-jellyfish/static/js/2.f12363d6.chunk.js.map",
+    "static/js/3.71f2d32c.chunk.js": "/glowing-jellyfish/static/js/3.71f2d32c.chunk.js",
+    "static/js/3.71f2d32c.chunk.js.map": "/glowing-jellyfish/static/js/3.71f2d32c.chunk.js.map",
     "index.html": "/glowing-jellyfish/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/glowing-jellyfish/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.79c329e9.chunk.css.map": "/glowing-jellyfish/static/css/main.79c329e9.chunk.css.map",
-    "static/js/2.80ebb879.chunk.js.LICENSE.txt": "/glowing-jellyfish/static/js/2.80ebb879.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/glowing-jellyfish/static/media/logo.6ce24c58.svg"
+    "static/css/main.311c9570.chunk.css.map": "/glowing-jellyfish/static/css/main.311c9570.chunk.css.map",
+    "static/js/2.f12363d6.chunk.js.LICENSE.txt": "/glowing-jellyfish/static/js/2.f12363d6.chunk.js.LICENSE.txt",
+    "static/media/golden-gate.7c004702.png": "/glowing-jellyfish/static/media/golden-gate.7c004702.png",
+    "static/media/mountain.be8b2578.png": "/glowing-jellyfish/static/media/mountain.be8b2578.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.02feeefe.js",
+    "static/js/runtime-main.d413c410.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.80ebb879.chunk.js",
-    "static/css/main.79c329e9.chunk.css",
-    "static/js/main.58fc9310.chunk.js"
+    "static/js/2.f12363d6.chunk.js",
+    "static/css/main.311c9570.chunk.css",
+    "static/js/main.d56ce94c.chunk.js"
   ]
 }
