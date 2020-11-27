@@ -1,7 +1,31 @@
 @import "~bootstrap/scss/bootstrap";
 
-$textcolor: green;
+$body-bg: lightblue;
+$font: Arial, Helvetica, sans-serif;
+$pricecolor:#50C878;
+$card-shadow: 0 10px 10px 5px grey;
+$paper: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
-p {
-    color: $textcolor
+body {
+    background-color: $body-bg; 
+}
+
+.card-heading {
+    font-family: $font;
+}
+
+.card-subheading {
+    font-family: $font;
+}
+
+.card-price {
+    color: $pricecolor;
+    font-weight: bold;
+}
+
+.card-body {
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: $card-shadow;
+    
 }
