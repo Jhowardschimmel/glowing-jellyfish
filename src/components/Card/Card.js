@@ -1,27 +1,22 @@
 import Card from 'react-bootstrap/Card';
 import GoldenGate from '../../images/golden-gate.png'
 import Mountain from '../../images/mountain.png'
-import React, { useEffect } from 'react'
 
 function ItemCard(props) {
 
-    useEffect(() => {
-        
-        console.log(props)
-    })
-
+    function checkBridge(boolean) {
     let itemSrc;
     const showBridge = props.bridge;
-    showBridge ? (itemSrc = GoldenGate) : (itemSrc = Mountain)
-
-
+    showBridge ? (itemSrc = GoldenGate) : (itemSrc = Mountain);
+    return itemSrc;
+    }
     function formatPrice(price) {
         const formattedPrice = price.toLocaleString('en')
         return formattedPrice
     }
     return (
-        <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src={itemSrc} />
+        <Card className="card mt-3">
+            <Card.Img className="card-img" variant="top" src={checkBridge()} />
             <Card.Body className="card-body">
                 <Card.Text className="card-heading text-left h4">{props.heading}</Card.Text>
                 <Card.Text className="card-subheading text-left">{
