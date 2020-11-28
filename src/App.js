@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <Container className=" main-container m-5">
-        <Row>
+        <Row xs={12}>
           {Inventory.map((item, index) =>
             <Col key={index} className="item">
               <ItemCard heading={item.Heading} subheading={item.Subheading} price={item.Price} bridge={item.showBridge} />
