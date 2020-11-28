@@ -8,8 +8,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Container className="main-container">
-        <Row xs={12} className="m-5">
+      <Container className="main-container m-5">
+        <Row className="main-row">
           {Inventory.map((item, index) =>
             <Col key={index} className="item">
               <ItemCard heading={item.Heading} subheading={item.Subheading} price={item.Price} bridge={item.showBridge} />
