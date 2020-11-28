@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/glowing-jellyfish/static/css/main.2f9c2ee2.chunk.css",
-    "main.js": "/glowing-jellyfish/static/js/main.46f58a84.chunk.js",
-    "main.js.map": "/glowing-jellyfish/static/js/main.46f58a84.chunk.js.map",
+    "main.js": "/glowing-jellyfish/static/js/main.f74d05f6.chunk.js",
+    "main.js.map": "/glowing-jellyfish/static/js/main.f74d05f6.chunk.js.map",
     "runtime-main.js": "/glowing-jellyfish/static/js/runtime-main.9e2b5805.js",
     "runtime-main.js.map": "/glowing-jellyfish/static/js/runtime-main.9e2b5805.js.map",
     "static/css/2.1a02f21c.chunk.css": "/glowing-jellyfish/static/css/2.1a02f21c.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.e56728fa.chunk.js",
     "static/css/main.2f9c2ee2.chunk.css",
-    "static/js/main.46f58a84.chunk.js"
+    "static/js/main.f74d05f6.chunk.js"
   ]
 }
